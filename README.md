@@ -6,7 +6,7 @@ Hecho por Rodrigo Alguacil Castilla un joven de 17 años que estudia y ha estudi
 
 ### DESCRIPCIÓN DEL PROYECTO
 
-En este proyecto se va a desarrollar una pagina web dedicada a la busqueda de datos al estilo wikipedia.
+En este proyecto se va a desarrollar una pagina web dedicada a la conversion de monedas ya sea de euros a dolares, de euros a libras inglesas, de dolares a libras inglesas etc.
 
 [Haz click para ir a nuestra web](https://es.alg.academy/) 
 
