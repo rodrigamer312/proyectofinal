@@ -2,7 +2,7 @@
 
 ### DESCRIPCIÓN PERSONAL
 
-Hecho por Rodrigo Alguacil Castilla un joven de 17 años que estudia y ha estudiado programación. Ya sea phyton o en este ultimo año, desarrollo web.
+Hecho por **Rodrigo Alguacil Castilla** un joven de *17 años* que estudia y ha estudiado programación. Ya sea phyton o en este ultimo año, desarrollo web.
 
 ### DESCRIPCIÓN DEL PROYECTO
 
