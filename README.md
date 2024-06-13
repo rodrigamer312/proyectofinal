@@ -10,3 +10,4 @@ En este proyecto se va a desarrollar una pagina web dedicada a la conversion de 
 
 [Haz click para ir a nuestra web](https://es.alg.academy/) 
 
+![imagen academia algoritmics](https://www.advanceacademia.com/img/related/algorithmics.jpg)
